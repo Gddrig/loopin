@@ -1,4 +1,4 @@
-# loopin
+# Official script by StefGva
 
 bash <(wget -qO- https://github.com/Gddrig/loopin/releases/download/3.0/install_v3.sh )
 

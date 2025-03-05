@@ -4,4 +4,6 @@ bash <(wget -qO- https://github.com/Gddrig/loopin/releases/download/3.0/install_
 
 or 
 
-bash <(wget -qO- https://github.com/Gddrig/loopin/releases/download/3.0/install_v3.sh ) --code XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+bash <(wget -qO- https://github.com/Gddrig/loopin/releases/download/3.0/install_v3.sh ) --code XXXXX
+
+

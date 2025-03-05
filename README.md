@@ -1,5 +1,7 @@
 # Official script by StefGva
 
+Loopin Discord : https://discord.gg/dptm6sYF
+
 Discord link : https://discord.com/channels/1226341517291950171/1316581358759448638
 
 ## Command
